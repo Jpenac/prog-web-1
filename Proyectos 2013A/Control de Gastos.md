@@ -2,6 +2,7 @@
 
 Un despacho fiscal-contable desea llevar el control de los gastos que se realizan durante un proceso y que pueden ser atribuidos a una "cuenta", de esto modo, esos montos podrán ser cobrados al cliente.
 El flujo del negocio se puede resumir de la siguiente manera:
+
 1. Un cliente crea un contrato con el despacho para que sea atendido un asunto en específico.
 1. El despacho genera el expediente del cliente.
 1. El despacho genera el expediente de la cuenta.

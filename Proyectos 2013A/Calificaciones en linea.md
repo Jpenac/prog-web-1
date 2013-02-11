@@ -2,6 +2,7 @@
 
 Los profesores requieren llevar el registro de sus alumnos para el control de asistencias y la evaluación continua. El propósito de este proyecto será que en línea el profesor pueda capturar calificaciones de sus alumnos y llevar el registro de asistencias.
 El flujo del sistema sería como a continuación se describe:
+
 1. El administrador del sitio captura los ciclos escolares
 1. El profesor captura un curso para un ciclo o clonar un curso anterior para un nuevo ciclo
 1. El profesor genera la reglas de evaluación del curso
