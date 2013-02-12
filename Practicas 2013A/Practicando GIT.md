@@ -5,8 +5,9 @@
 1. Crea un nuevo proyecto en tu computadora
 1. Crea un proyecto en Github
 1. Agrega en tu computadora el remoto de github
-1. Genera un archivo de texto con plano con la explicación de como hacer que git ignore archivo al momento de hacer un add *
+1. Genera un archivo de texto plano con la explicación de como hacer que git ignore archivo al momento de hacer un add *
 1. Haz un commit con el texto 'Reglas git ignore' (Recuerda que esto requiere pasos previos)
+2. Renombra el archivo para que tenga tu nombre
 1. Crea un nuevo archivo de texto y en el lenguaje que quieras haz que que se imprima tu nombre
 1. Realiza el commit para que únicamente el cambio del nombre del archivo sea aplicado
 1. Empuja tu proyecto hacia Github
