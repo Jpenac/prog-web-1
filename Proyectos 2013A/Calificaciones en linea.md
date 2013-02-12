@@ -13,8 +13,11 @@ El flujo del sistema sería como a continuación se describe:
 ## La lista de alumnos
 
 El listado de alumnos será cargado al sistema por medio de archivos separados por comas, aunque también pueden ser cargados manualmente.
+
 De los alumnos se almacenará, el código, nombre completo, carrera y correo electrónico.
+
 El profesor puede además indicar por medio de checkbox campos extras para capturar del alumno, tales como celular, cuenta de github, página web.
+
 Cada alumno tiene un status para indicar si esta activo o no, de este modo, se pueden seleccionar alumnos que sean enviados como no activos lo que provocará que no aparezcan en las listas de asistencias ni calificaciones.
 
 ## Los ciclos escolares
