@@ -1,5 +1,7 @@
-<h1>Curso de Programación Web</h1>
-<h2>Michelle Torres en CUCEI</h2>
-<h2>2013</h2>
+# Curso de Programación Web
+### Impartido por Michelle Torres en CUCEI
+### Ciclo 2013A
 
-<p>El contenido de este repositorio son los libros y manuales para el curso, así como los archivos de evaluación continua y seguimiento de la planeación de actividades por sesión</p>
+El contenido de este repositorio son los libros y manuales para el curso, así como los archivos de evaluación continua y seguimiento de la planeación de actividades por sesión.
+
+Para visualizar los archivos de evaluación de una manera clara, puede acceder a traves de la página: 
